@@ -14,6 +14,7 @@ fetch("./list.json")
       const btn = document.createElement("a");
       btn.textContent = "Acheter";
       img.classList.add("photothumb");
+      img.setAttribute("loading", "lazy");
       img.src = element.imageUrl;
       const description = document.createElement("div");
       description.classList.add("tooltip");
