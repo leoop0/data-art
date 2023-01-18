@@ -1,6 +1,6 @@
 let posterList = [];
 
-fetch("/list.json")
+fetch("./list.json")
   .then((res) => res.json())
   .then((data) => {
     data.forEach((element) => {
