@@ -1,7 +1,8 @@
 body {
-  background-color: #999cff;
-  background-image: radial-gradient(at 30% 28%, hsl(211deg, 77%, 77%) 0px, transparent 50%), radial-gradient(at 39% 51%, hsl(22deg, 67%, 65%) 0px, transparent 50%), radial-gradient(at 84% 51%, hsl(133deg, 83%, 77%) 0px, transparent 50%), radial-gradient(at 74% 41%, hsl(243deg, 99%, 75%) 0px, transparent 50%), radial-gradient(at 90% 18%, hsl(9deg, 60%, 66%) 0px, transparent 50%), radial-gradient(at 87% 72%, hsl(128deg, 80%, 79%) 0px, transparent 50%), radial-gradient(at 31% 93%, hsl(133deg, 85%, 74%) 0px, transparent 50%);
-  background-size: cover;
+  background: #0f2027; /* fallback for old browsers */
+  background: linear-gradient(to right, rgba(44, 83, 100, 0.4352941176), rgba(32, 58, 67, 0.4352941176), rgba(15, 32, 39, 0.4352941176));
+  background: linear-gradient(to right, rgba(44, 83, 100, 0.4352941176), rgba(32, 58, 67, 0.4352941176), rgba(15, 32, 39, 0.4352941176)), url("https://images.unsplash.com/photo-1602475063211-3d98d60e3b1f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2457&q=80");
+  background-size: contain;
 }
 
 .title-container {
@@ -11,12 +12,34 @@ body {
   align-items: center;
   justify-content: center;
 }
+.title-container .content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.title-container p {
+  color: white;
+  text-align: center;
+  width: 80%;
+  font-family: "Monument Extended";
+  font-weight: 200;
+  font-size: 16px;
+}
 .title-container h1 {
   color: white;
   font-size: 4rem;
   font-weight: bold;
-  text-transform: uppercase;
-  font-family: "Basteleur Moonlight";
+  font-family: "Monument Extended";
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0;
+}
+.title-container h1 svg {
+  opacity: 0.7;
+  transform: rotate(8deg);
+  width: 50px;
 }
 
 .wrapper {
@@ -37,6 +60,8 @@ body {
 }
 .grid {
   display: grid;
+  transition: transform 0.25s;
+  will-change: transform;
   grid-gap: 10px;
   grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
   grid-auto-rows: 20px;
