@@ -14,6 +14,8 @@ fetch("./list.json")
       const btn = document.createElement("a");
       btn.textContent = "Acheter";
       img.classList.add("photothumb");
+      btn.setAttribute("href", "https://www.google.com");
+      btn.setAttribute("target", "_blank");
       img.setAttribute("loading", "lazy");
       img.src = element.imageUrl;
       const description = document.createElement("div");
@@ -30,7 +32,7 @@ fetch("./list.json")
     });
     setTimeout(() => {
       resize();
-    }, "100");
+    }, "500");
   });
 
 function resize() {

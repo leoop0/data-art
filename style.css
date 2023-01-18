@@ -8,7 +8,7 @@ body {
   background: #0f2027;
   background: linear-gradient(to right, rgba(44, 83, 100, 0.4352941176), rgba(32, 58, 67, 0.4352941176), rgba(15, 32, 39, 0.4352941176));
   background: linear-gradient(to right, rgba(44, 83, 100, 0.4352941176), rgba(32, 58, 67, 0.4352941176), rgba(15, 32, 39, 0.4352941176)), url("https://images.unsplash.com/photo-1602475063211-3d98d60e3b1f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2457&q=80");
-  background-size: contain;
+  background-size: cover;
   height: 100vh;
 }
 
@@ -95,6 +95,7 @@ body {
   font-family: "Inter";
 }
 .item .tooltip a {
+  text-decoration: none;
   display: block;
   position: absolute;
   top: -20px;
