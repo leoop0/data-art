@@ -1,44 +1,36 @@
 @font-face {
-  font-family: "Monument Extended";
-  src: url("MonumentExtended-Bold.woff2") format("woff2"),
-    url("MonumentExtended-Bold.woff") format("woff");
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
+    font-family: 'Basteleur';
+    src: url('Basteleur-Bold.woff2') format('woff2'),
+        url('Basteleur-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
-  font-family: "Monument Extended";
-  src: url("MonumentExtended-Ultrabold.woff2") format("woff2"),
-    url("MonumentExtended-Ultrabold.woff") format("woff");
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
+    font-family: 'Basteleur Moonlight';
+    src: url('Basteleur-Moonlight.woff2') format('woff2'),
+        url('Basteleur-Moonlight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
-  font-family: "Monument Extended";
-  src: url("MonumentExtended-Light.woff2") format("woff2"),
-    url("MonumentExtended-Light.woff") format("woff");
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
+    font-family: 'Basteleur';
+    src: url('Basteleur-Bold.woff2') format('woff2'),
+        url('Basteleur-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
-  font-family: "Monument Extended";
-  src: url("MonumentExtended-Black.woff2") format("woff2"),
-    url("MonumentExtended-Black.woff") format("woff");
-  font-weight: 900;
-  font-style: normal;
-  font-display: swap;
+    font-family: 'Basteleur Moonlight';
+    src: url('Basteleur-Moonlight.woff2') format('woff2'),
+        url('Basteleur-Moonlight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
 }
 
-@font-face {
-  font-family: "Monument Extended";
-  src: url("MonumentExtended-Regular.woff2") format("woff2"),
-    url("MonumentExtended-Regular.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}

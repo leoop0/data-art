@@ -1,137 +1,205 @@
 [
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Abysses.webp",
     "name": "Abysses",
     "description": "Saviez-vous que l’Homme connaît plus l’espace que les fonds marins ? Plongez dans l’inconnues, découvrez les Abysses"
   },
   {
-    "imageUrl": "https://cdn.discordapp.com/attachments/1062300076208308242/1065192243725611008/Capture_decran_2023-01-18_a_09.53.20.png",
-    "name": "Les rêves de Dali",
-    "description": "Le rêve  est un phénomène que nous ne pouvons observer que pendant son absence, pourtant, nous l’avons capturé pour vous."
-  },
-  {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/beatitudo.webp",
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Beatitudo.webp",
     "name": "Beatitudo",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+    "description": "Bien que le bonheur ne soit pas quantifiable, on vous le représente aujourd'hui dans toute son intensité."
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/BehindTheTech.webp",
+    "name": "Behind The Tech",
+    "description": "Découvrez les coulisses des grandes entreprises à travers des visualisations graphiques\nQue sait-on vraiment des grosses entreprises ? \n"
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/BitcoinTown.webp",
+    "name": "Bitcoin Town",
+    "description": "Le monde des crypto-monnaies s’ouvre à vous, une représentation des courbes selon la valeur du Bitcoins au bout d’un mois. \n"
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Capitalism.webp",
+    "name": "Capitalism",
+    "description": "Exploration de la société de consommation et de ses résultats. Les données utilisées sont celles de la tête d’affiche du capitalisme, Amazon. \n"
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Cube.webp",
+    "name": "Cube",
+    "description": "Bien que enfermé dans la fiction, le Cyberpunk, cet univers si fascinant que terrifiant dont on se rapproche dangereusement. \n"
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Cyberpunk.webp",
+    "name": "Cyberpunk",
+    "description": "L’univers Cyberpunk, ce fameux genre de science-fiction n’a cessé d’évoluer ces dernières années. Des jeux vidéos à la musique, de la télévision aux livres… Plongez dans cet univers à la fois fascinant et effrayant\n"
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/DiscoPlanets.webp",
+    "name": "Disco Planets",
+    "description": "Qui a dit que l’exploration des planètes ne pouvait pas être fun et colorée\n"
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Discover.webp",
+    "name": "Discover",
+    "description": "L’Homme a une obsession pour l’exploration depuis la nuit des temps. N’ayant toujours pas fini de découvrir l’entièreté de la planète bleue, il a levé la tête et ne l’a jamais baissé. Toutes les fusées lancées depuis 1957.\n"
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Dive.webp",
+    "name": "Dive",
+    "description": "Plongez dans le monde sous-marin des pokémon de type eau"
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Dreams.webp",
+    "name": "Dreams",
+    "description": "1460, c’est le nombre de rêves qu’un humain fait au cours d’une année. Ce portrait représente tous ces rêves, avec en couleur les seuls dont nous pouvons nous souvenir, mais comment explorer tous les autres ?"
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/E.T.CELL.webp",
+    "name": "E.T. CELL",
+    "description": "L’exploration spatiale a pris un tournant incroyable ces dernières années. Les données des lancements depuis 1950 sont visibles sur la structure extra terrestre.  Le surfer d’argent est présenté comme un hommage aux astronautes mais également à Jack Kirby, son créateur. \n"
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/EmotionPlanet.webp",
+    "name": "Emotion Planet",
+    "description": "Petit quiz, quelle est la planète située entre Jupiter et Uranus ? La plus grosse planète du système solaire, il s’agit bien de Saturne ! Découvrez cette planète au pouvoir spirituel\n"
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Exoplanet.webp",
+    "name": "Exoplanet",
+    "description": "Depuis des années nous cherchons un substitut à notre maison, aujourd’hui nous en avons trouvé des milliers parmi les étoiles, mais sont-elles à notre portée ?\n"
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/FluffyPlanet.webp",
+    "name": "Fluffy Planet",
+    "description": "Imaginez un univers lointain, où chaque planète est un aperçu de la déforestation sur notre propre planète. Un voyage visuel qui vous donnera envie de faire quelque chose pour protéger notre planète"
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/FluxOenolo-demographique.webp",
+    "name": "Flux Oenolo-démographique",
+    "description": "Découvrez Bordeaux, une ville au cœur viticole, située sur la Garonne !"
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/GameOfThroneDeathsMap.webp",
+    "name": "Game Of Throne Deaths Map",
+    "description": "Quand on joue au jeu du trône, soit on gagne soit on meurt, comme vous l’aurez deviné, peu de gens ont gagnés "
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Ghibli.webp",
+    "name": "Ghibli",
+    "description": "Grâce à Ghibli, célèbre studio d’animation japonais, de nombreux personnages, petits et grands, ont vu le jour."
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/GZ2.webp",
+    "name": "GZ2",
+    "description": "Exploration au travers des galaxies qui peuplent notre univers. Visualisation créée à partir de la classification de galaxies “Galaxy Zoo 2”."
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Iteration.webp",
+    "name": "Itération",
+    "description": "x"
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Kunugidama.webp",
+    "name": "Kunugidama",
+    "description": "La colère témoigne de l'intensité et de la profondeur du lien inter-humain. Qu’en est-il des différents pays ?"
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/LesRevesDeDali.webp",
+    "name": "Les Rêves de Dali",
+    "description": "Le rêve est un phénomène que nous ne pouvons observer que pendant son absence, pourtant, nous l’avons capturé pour vous."
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/LifeTime.webp",
+    "name": "Life Time",
+    "description": "La superficie totale de ces planètes représente la vie d’une personne. Seules les planètes roses sont celles où vous pouvez explorer. La plus grosse planète ? Votre temps passé à dormir…"
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Light.webp",
+    "name": "Light",
+    "description": "Sans lumière, pas de couleur, sans lumière, pas d’exploration."
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/MBTI.webp",
+    "name": "MBTI",
+    "description": "Oeuvre réalisée à base des données liées à la photonique, science de la lumière."
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/abysses.webp",
-    "name": "Nom",
-    "description": "Gameplay"
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Metro.webp",
+    "name": "Metro",
+    "description": "Exploration de l’évolution des lignes de métro au fil des années. Quoi de mieux que le métro pour découvrir les secrets des plus belles villes du monde ?"
+  },
+  {
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Museum.webp",
+    "name": "Museum",
+    "description": "Quoi de mieux que le musée pour explorer les merveilles du monde ? Découvrez une affiche représentant le nombre de visiteurs des musées les plus connus sur 8 années"
+  },
+  {
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/NetworkVisualizer.webp",
+    "name": "Network Visualizer"
+  },
+  {
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/NewUniverse.webp",
+    "name": "New Universe",
+    "description": "Explorons la galaxie, les nouvelles découvertes !"
+  },
+  {
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/NotitiaFodienda.webp",
+    "name": "Notitia Fodienda",
+    "description": "Découvrez les différents éléments caractérisant les différentes planètes de notre galaxie comme leur couleur, leur masse, leur diamètre, leur densité et leur distance du soleil et de la lune."
+  },
+  {
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Oceans.webp",
+    "name": "Oceans",
+    "description": "Les océans sont essentiels à la vie sur Terre. Pourtant, engrais, pesticides et produits chimiques ne leur rendent pas la vie facile. Agissons ! Ils ont besoin de nous."
+  },
+  {
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Peaks.webp",
+    "name": "Peaks",
+    "description": "Découverte de l’himalaya. Exploration du sommet d’une montagne réalisée grâce aux données de 468 sommets de l'Himalaya népalais."
+  },
+  {
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/PowerofSelfLove.webp",
+    "name": "Power of Self Love",
+    "description": "Le travail sur soi permet d’être plus conscient de tous ces facteurs et d’expérimenter différents chemins pour parvenir à nos buts"
+  },
+  {
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Retrofuturism.webp",
+    "name": "Retrofuturism",
+    "description": "Pas facile d’imaginer le futur.C’est pourtant ce qu’ont fait les écrivains de Science Fiction en imaginant ces mondes rétro-futuristes."
+  },
+  {
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/SpaceshipDataArt.webp",
+    "name": "Spaceship Data Art"
+  },
+  {
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Steampunk.webp",
+    "name": "Steampunk",
+    "description": "L’univers du steampunk dans la littérature Sci Fi. Exploration visuelle des datas qui représentent les notations et parutions de ces œuvres."
+  },
+  {
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Summits.webp",
+    "name": "Summits",
+    "description": "Comment parler d’exploration sans parler des plus hauts spots qu'habite notre Terre, découvrez à travers ce tableau les plus hautes montagnes."
+  },
+  {
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/VolsDirects.webp",
+    "name": "Vols Directs",
+    "description": "Nous possédons un des passeports les plus “puissants” du monde, une porte ouverte à l’exploration. Représentation de tous les vols direct possible depuis la France métropolitaine"
+  },
+  {
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Webiam.webp",
+    "name": "Webiam",
+    "description": "Découverte de l’influence du groupe de rap marseillais IAM sur la musique en général. Explorez cet univers Néo Gothique comme un hommage à leur (meilleur) album, l’École du Micro d’argent."
+  },
+  {
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Wone.webp",
+    "name": "Wone",
+    "description": "On ne peut pas chiffrer le bonheur, pourtant, nous avons des chiffres à son sujet."
+  },
+  {
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/Naruto.webp",
+    "name": "なると",
+    "description": "Exploration du monde de l’animé culte Naruto."
   }
 ]

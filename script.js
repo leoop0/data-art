@@ -14,7 +14,7 @@ fetch("./list.json")
       const btn = document.createElement("a");
       btn.textContent = "Acheter";
       img.classList.add("photothumb");
-      btn.setAttribute("href", "https://www.google.com");
+      btn.setAttribute("href", element.buyUrl);
       btn.setAttribute("target", "_blank");
       img.setAttribute("loading", "lazy");
       img.src = element.imageUrl;
@@ -30,10 +30,19 @@ fetch("./list.json")
       description.append(name, desc, btn);
       slider.append(slide);
     });
+
     setTimeout(() => {
       resize();
-    }, "500");
+    }, "1000");
+
+    setTimeout(() => {
+      freeScroll();
+    }, "1200");
   });
+
+function freeScroll() {
+  document.body.style.overflowY = "scroll";
+}
 
 function resize() {
   function resizeGridItem(item) {
@@ -73,7 +82,7 @@ function resize() {
 
 const body = document.body,
   scrollWrap = document.getElementsByClassName("smooth-scroll-wrapper")[0],
-  height = scrollWrap.getBoundingClientRect().height - 1,
+  height = scrollWrap.getBoundingClientRect().height - 1.2,
   speed = 0.04;
 
 var offset = 0;
