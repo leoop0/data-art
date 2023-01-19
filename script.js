@@ -14,7 +14,7 @@ fetch("./list.json")
       const btn = document.createElement("a");
       btn.textContent = "Acheter";
       img.classList.add("photothumb");
-      btn.setAttribute("href", element.buyUrl);
+      btn.setAttribute("href", "https://link-bde.fr/categorie-produit/posters-data-art/");
       btn.setAttribute("target", "_blank");
       img.setAttribute("loading", "lazy");
       img.src = element.imageUrl;
