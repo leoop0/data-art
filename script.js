@@ -82,7 +82,7 @@ function resize() {
 
 const body = document.body,
   scrollWrap = document.getElementsByClassName("smooth-scroll-wrapper")[0],
-  height = scrollWrap.getBoundingClientRect().height - 1.2,
+  height = scrollWrap.getBoundingClientRect().height,
   speed = 0.04;
 
 var offset = 0;
