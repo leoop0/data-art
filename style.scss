@@ -16,6 +16,10 @@ body {
   height: 100vh;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 .title-container {
   background: url("./assets/bg.png");
   background-size: cover;
