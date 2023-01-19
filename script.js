@@ -11,11 +11,11 @@ fetch("./list.json")
       slide.classList.add("item");
       slide.classList.add("photo");
       const img = document.createElement("img");
-      const btn = document.createElement("a");
-      btn.textContent = "Acheter";
+      // const btn = document.createElement("a");
+      // btn.textContent = "Acheter";
       img.classList.add("photothumb");
-      btn.setAttribute("href", "https://link-bde.fr/categorie-produit/posters-data-art/");
-      btn.setAttribute("target", "_blank");
+      // btn.setAttribute("href", "https://link-bde.fr/categorie-produit/posters-data-art/");
+      // btn.setAttribute("target", "_blank");
       img.setAttribute("loading", "lazy");
       img.src = element.imageUrl;
       const description = document.createElement("div");
@@ -27,7 +27,7 @@ fetch("./list.json")
       content.appendChild(img);
       slide.append(content);
       content.append(description);
-      description.append(name, desc, btn);
+      description.append(name, desc);
       slider.append(slide);
     });
 
@@ -80,36 +80,36 @@ function resize() {
 
 // SCROLL;
 
-const body = document.body,
-  scrollWrap = document.getElementsByClassName("smooth-scroll-wrapper")[0],
-  height = scrollWrap.getBoundingClientRect().height,
-  speed = 0.04;
+// const body = document.body,
+//   scrollWrap = document.getElementsByClassName("smooth-scroll-wrapper")[0],
+//   height = scrollWrap.getBoundingClientRect().height,
+//   speed = 0.04;
 
-var offset = 0;
+// var offset = 0;
 
-body.style.height = Math.floor(height) + "px";
+// body.style.height = Math.floor(height) + "px";
 
-function smoothScroll() {
-  offset += (window.pageYOffset - offset) * speed;
+// function smoothScroll() {
+//   offset += (window.pageYOffset - offset) * speed;
 
-  var scroll = "translateY(-" + offset + "px) translateZ(0)";
-  scrollWrap.style.transform = scroll;
+//   var scroll = "translateY(-" + offset + "px) translateZ(0)";
+//   scrollWrap.style.transform = scroll;
 
-  callScroll = requestAnimationFrame(smoothScroll);
-}
+//   callScroll = requestAnimationFrame(smoothScroll);
+// }
 
-smoothScroll();
-const content = document.querySelector("section");
-let currentPos = window.pageYOffset;
+// smoothScroll();
+// const content = document.querySelector("section");
+// let currentPos = window.pageYOffset;
 
-const callDistort = function () {
-  const newPos = window.pageYOffset;
-  const diff = newPos - currentPos;
-  const speed = diff * 0.2;
+// const callDistort = function () {
+//   const newPos = window.pageYOffset;
+//   const diff = newPos - currentPos;
+//   const speed = diff * 0.2;
 
-  content.style.transform = "skewY(" + speed + "deg)";
-  currentPos = newPos;
-  requestAnimationFrame(callDistort);
-};
+//   content.style.transform = "skewY(" + speed + "deg)";
+//   currentPos = newPos;
+//   requestAnimationFrame(callDistort);
+// };
 
-callDistort();
+// callDistort();
