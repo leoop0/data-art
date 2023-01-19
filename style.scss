@@ -20,6 +20,10 @@ html {
   overflow-x: hidden;
 }
 
+a {
+  display: none !important;
+}
+
 .title-container {
   background: url("./assets/bg.png");
   background-size: cover;
