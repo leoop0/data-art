@@ -159,7 +159,7 @@
     "description": "Découverte de l’himalaya. Exploration du sommet d’une montagne réalisée grâce aux données de 468 sommets de l'Himalaya népalais."
   },
   {
-    "imageUrl": "http://dev.salutcestleo.com/dataArt/PowerofSelfLove.webp",
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/PowerOfSelfLove.webp",
     "name": "Power of Self Love",
     "description": "Le travail sur soi permet d’être plus conscient de tous ces facteurs et d’expérimenter différents chemins pour parvenir à nos buts"
   },
@@ -201,5 +201,15 @@
     "imageUrl": "http://dev.salutcestleo.com/dataArt/Naruto.webp",
     "name": "なると",
     "description": "Exploration du monde de l’animé culte Naruto."
+  },
+  {
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/BurningMan.webp",
+    "name": "Burning Man",
+    "description": "Loin du tumulte des villes, sous la force des vagues, se cachent des intelligences sensibles, possédants une autre manière de communiquer. Taisez-vous et écoutez, ce sont des baleines qui discutent."
+  },
+  {
+    "imageUrl": "http://dev.salutcestleo.com/dataArt/ShutUpListen.webp",
+    "name": "Shut Up, Listen",
+    "description": "Ne l’oublions pas, les avancées techniques et l'exploration ont leurs limites. Cette œuvre est basée sur les relevés de pollution atmosphérique, par pays, de 1750 à 2020."
   }
 ]
